@@ -1,4 +1,4 @@
-# rTASSEL sandbox <img src="" align="right" height="200"/>
+# rTASSEL sandbox <img src="figs/rtassel_sandbox.svg" align="right" height="120"/>
 Sandboxing rTASSEL with Jupyter and Binder
 
 | Instance    | Binder Link |
