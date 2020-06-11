@@ -1,6 +1,4 @@
 ## Install MRAN packages ----
-#install.packages("rJava")
-#install.packages("tidyverse")
 install.packages("devtools")
 install.packages("BiocManager")
 
