@@ -9,4 +9,4 @@ BiocManager::install("SummarizedExperiment")
 
 
 ## Install rTASSEL ----
-devtools::install_bitbucket("bucklerlab/rTASSEL", ref = "rTAS-006-genome-filtration")
+devtools::install_bitbucket("bucklerlab/rTASSEL")
